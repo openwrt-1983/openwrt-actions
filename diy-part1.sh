@@ -43,8 +43,8 @@ git clone https://github.com/destan19/OpenAppFilter package/destan19
 
 git clone https://github.com/openwrt-1983/openwrt-branch package/branch
 
-# cp package/branch/patch/add-thermal-driver-for-H6H5H3A64A83TR40.patch target/linux/sunxi/patches-5.4/add-thermal-driver-for-H6H5H3A64A83TR40.patch
-# cp package/branch/patch/add-YAML-schema-for-sun8i-thermal-driver-bindings.patch target/linux/sunxi/patches-5.4/add-YAML-schema-for-sun8i-thermal-driver-bindings.patch
-# cp package/branch/patch/sun8i-h3-Add-thermal-sensor-and-thermal-zones.patch target/linux/sunxi/patches-5.4/sun8i-h3-Add-thermal-sensor-and-thermal-zones.patch
+cp package/branch/patch/add-thermal-driver-for-H6H5H3A64A83TR40.patch target/linux/sunxi/patches-5.4/add-thermal-driver-for-H6H5H3A64A83TR40.patch
+cp package/branch/patch/add-YAML-schema-for-sun8i-thermal-driver-bindings.patch target/linux/sunxi/patches-5.4/add-YAML-schema-for-sun8i-thermal-driver-bindings.patch
+cp package/branch/patch/sun8i-h3-Add-thermal-sensor-and-thermal-zones.patch target/linux/sunxi/patches-5.4/sun8i-h3-Add-thermal-sensor-and-thermal-zones.patch
 
 
